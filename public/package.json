@@ -1,0 +1,20 @@
+{
+  "name": "pf",
+  "version": "1.0.0",
+  "description": "Прон-Фильтер",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.23.3",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PCCartem/pron-filtr.git"
+  }
+}
