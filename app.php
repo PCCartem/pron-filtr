@@ -13,4 +13,3 @@ require_once "par/ActiveRecord.php";
  });
 $app = new \App\Brut();
 $app->getCatsUrls();
-//echo "Верный пароль".$app->lync;
